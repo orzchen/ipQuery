@@ -2,7 +2,9 @@
 
 ## 基于纯真IP数据库的IP批量查询归属地工具
 
-基于 [cnwhy/lib-qqwry](https://github.com/cnwhy/lib-qqwry/) 二次开发，编译了可执行文件 ipQuery/build
+基于 [cnwhy/lib-qqwry](https://github.com/cnwhy/lib-qqwry/) 二次开发，关于环境和二开可看这个仓库。
+
+编译了可执行文件 ipQuery/build
 
 输入：ip文件，一行一个
 
