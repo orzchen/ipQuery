@@ -4,7 +4,7 @@
 
 基于 [cnwhy/lib-qqwry](https://github.com/cnwhy/lib-qqwry/) 二次开发，关于环境和二开可看这个仓库。
 
-编译了可执行文件 ipQuery/build
+编译了可执行文件 ipQuery/build，非在线查询！
 
 输入：ip文件，一行一个
 
@@ -22,4 +22,7 @@ node app.js --file=ipfilename
 
 ![image-20230905140300558](https://cdn.jsdelivr.net/gh/orzchen/Blog/images/image-20230905140300558.png)
 
+![image-20230905141450734](https://cdn.jsdelivr.net/gh/orzchen/Blog/images/image-20230905141450734.png)
+
 GetAddr4Json.py 解析json的脚本
+
